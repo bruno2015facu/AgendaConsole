@@ -50,9 +50,9 @@ Comando:
 ** Funcionalidades
 
 *** Menu principal:
-     *Registrar compromisso*
-     *Exibir compromissos*
-     *Sair*
+ -    *Registrar compromisso*
+ -   *Exibir compromissos*
+ -    *Sair*
      
 ---
 
@@ -68,14 +68,14 @@ Comando:
 
 ** Modo de uso simplificado 
 
-
+```
 Informe seu nome: *João Silva*
 
 Menu:
 1 - Criar novo compromisso
 2 - Exibir compromissos
 0 - Sair
-
+```
 
 ---
 
