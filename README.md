@@ -11,11 +11,12 @@ Este projeto é uma aplicação de console desenvolvida em C# para gerenciar com
 - Associação simples entre objetos (usuário, compromisso, local).
 
 
-
+---
 
 ** Estrutura do Projeto
 
 
+```
 /AgendaConsole
 ├── Program.cs
 └── Modelos
@@ -24,11 +25,11 @@ Este projeto é uma aplicação de console desenvolvida em C# para gerenciar com
     ├── Participante.cs
     ├── Anotacao.cs
     └── Local.cs
+```
 
 
 
-
-
+---
 
 
 ** Como Executar
@@ -42,7 +43,7 @@ Comando:
         dotnet run
 
 
-
+---
 
 
 
@@ -52,6 +53,8 @@ Comando:
      *Registrar compromisso*
      *Exibir compromissos*
      *Sair*
+     
+---
 
 *** Funcionamento:
 - Entrada do nome do usuário.
@@ -60,7 +63,7 @@ Comando:
 - Inclusão de anotações no compromisso.
 - Exibição dos compromissos criados com detalhes.
 
-
+---
 
 
 ** Modo de uso simplificado 
@@ -74,7 +77,7 @@ Menu:
 0 - Sair
 
 
-
+---
 
 
 *** Conceitos Trabalhados
@@ -85,7 +88,7 @@ Menu:
 - Encapsulamento com `private` + `IReadOnlyCollection`
 - Validações em construtores e métodos
 
-
+---
 
 
 
