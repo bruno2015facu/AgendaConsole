@@ -2,7 +2,7 @@
 ```
 ** Envolvidos:
 -Joao Vitor Herzer De Sousa            RA:2652587
--Pedro Henrique Damasceno Goncalves    RA:
+-Pedro Henrique Damasceno Goncalves    RA:2509636
 -Bruno Henrique Oliveira Garcia Gouvea RA:1744925
 ```
 ** Objetivo
