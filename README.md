@@ -19,11 +19,11 @@ Este projeto é uma aplicação de console desenvolvida em C# para gerenciar com
 /AgendaConsole
 ├── Program.cs
 └── Modelos
-'├── Usuario.cs
-'├── Compromisso.cs
-'├── Participante.cs
-'├── Anotacao.cs
-'└── Local.cs
+    ├── Usuario.cs
+    ├── Compromisso.cs
+    ├── Participante.cs
+    ├── Anotacao.cs
+    └── Local.cs
 
 
 
