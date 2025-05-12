@@ -1,5 +1,10 @@
 # Sistema de Agenda de Compromissos 
-
+```
+** Envolvidos:
+-Joao Vitor Herzer De Sousa            RA:2652587
+-Pedro Henrique Damasceno Goncalves    RA:
+-Bruno Henrique Oliveira Garcia Gouvea RA:1744925
+```
 ** Objetivo
 
 Este projeto é uma aplicação de console desenvolvida em C# para gerenciar compromissos de usuários, permitindo:
