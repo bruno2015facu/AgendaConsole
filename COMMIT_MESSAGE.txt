@@ -1,4 +1,4 @@
-** # Commit inicial - Sistema de Agenda de Compromissos **
+ # Commit inicial - Sistema de Agenda de Compromissos
 
 - Adiciona classes modelo: Usuario, Compromisso, Participante, Anotacao, Local
 - Implementa regras de validação, associação e composição
