@@ -94,9 +94,3 @@ Menu:
 - Validações em construtores e métodos
 
 ---
-
-
-
-## 📘 Licença
-
-Este projeto é de uso acadêmico e livre para fins educacionais.
