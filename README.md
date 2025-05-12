@@ -47,7 +47,7 @@ dotnet run
 ## 🧠 Funcionalidades
 
 ### Menu principal:
-- **Criar novo compromisso**
+- **Registrar compromisso**
 - **Exibir compromissos**
 - **Sair**
 
