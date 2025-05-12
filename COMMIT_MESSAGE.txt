@@ -1,0 +1,6 @@
+🎉 Commit inicial - Sistema de Agenda de Compromissos
+
+- Adiciona classes modelo: Usuario, Compromisso, Participante, Anotacao, Local
+- Implementa regras de validação, associação e composição
+- Interface de console para criar e exibir compromissos
+- Inclusão do README com instruções de uso e estrutura do projeto
