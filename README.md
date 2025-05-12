@@ -37,8 +37,6 @@ O foco é a prática dos princípios da Programação Orientada a Objetos (POO):
 2. **Executando via terminal**:
 
 ```bash
-cd AgendaConsole
-dotnet new console -o .
 dotnet run
 ```
 
